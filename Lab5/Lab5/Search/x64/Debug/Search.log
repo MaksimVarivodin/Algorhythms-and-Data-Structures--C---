@@ -1,0 +1,17 @@
+﻿  Main.cpp
+C:\Files\Algo\Lab5\Lab5\Header.h(299,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Files\Algo\Lab5\Lab5\Header.h(328,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Files\Algo\Lab5\Lab5\Main.cpp(39,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Files\Algo\Lab5\Lab5\Main.cpp(56,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Files\Algo\Lab5\Lab5\Main.cpp(81,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Files\Algo\Lab5\Lab5\Main.cpp(82,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Files\Algo\Lab5\Lab5\Main.cpp(80,6): warning C4101: 'i': unreferenced local variable
+C:\Files\Algo\Lab5\Lab5\Main.cpp(109,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Files\Algo\Lab5\Lab5\Main.cpp(110,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Files\Algo\Lab5\Lab5\Main.cpp(204,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Files\Algo\Lab5\Lab5\Main.cpp(206,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Files\Algo\Lab5\Lab5\Main.cpp(279,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Files\Algo\Lab5\Lab5\Main.cpp(36): warning C4715: 'LinearSearch': not all control paths return a value
+C:\Files\Algo\Lab5\Lab5\Main.cpp(155): warning C4715: 'bm_seek_substring': not all control paths return a value
+C:\Files\Algo\Lab5\Lab5\Main.cpp(272): warning C4715: 'rabin_karp': not all control paths return a value
+  Search.vcxproj -> C:\Files\Algo\Lab5\Lab5\x64\Debug\Search.exe

@@ -1,0 +1,52 @@
+﻿  BinTree_reals.cpp
+C:\Files\Algo\Lab3\Lab3a\Header.h(185,26): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Files\Algo\Lab3\Lab3a\Header.h(200,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Files\Algo\Lab3\Lab3a\Header.h(333,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Files\Algo\Lab3\Lab3a\Header.h(358,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Files\Algo\Lab3\Lab3a\Header.h(359,1): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+C:\Files\Algo\Lab3\Lab3a\Header.h(384,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Files\Algo\Lab3\Lab3a\Header.h(385,1): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+C:\Files\Algo\Lab3\Lab3a\BinTree_reals.cpp(871,11): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Files\Algo\Lab3\Lab3a\BinTree_reals.cpp(871,13): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Files\Algo\Lab3\Lab3a\BinTree_reals.cpp(907,39): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Files\Algo\Lab3\Lab3a\Header.h(38,13): warning C4244: =: преобразование "double" в "t1", возможна потеря данных
+          with
+          [
+              t1=int
+          ]
+C:\Files\Algo\Lab3\Lab3a\BinTree_reals.cpp(44,77): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Enter_check<int,int>(t1 &,const t2 &,const t2 &)"
+          with
+          [
+              t1=int,
+              t2=int
+          ]
+C:\Files\Algo\Lab3\Lab3a\Header.h(43,14): warning C4244: =: преобразование "__int64" в "t1", возможна потеря данных
+          with
+          [
+              t1=int
+          ]
+  Main.cpp
+C:\Files\Algo\Lab3\Lab3a\Header.h(185,26): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Files\Algo\Lab3\Lab3a\Header.h(200,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Files\Algo\Lab3\Lab3a\Header.h(333,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Files\Algo\Lab3\Lab3a\Header.h(358,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Files\Algo\Lab3\Lab3a\Header.h(359,1): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+C:\Files\Algo\Lab3\Lab3a\Header.h(384,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Files\Algo\Lab3\Lab3a\Header.h(385,1): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+C:\Files\Algo\Lab3\Lab3a\Main.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Reals.cpp
+C:\Files\Algo\Lab3\Lab3a\Header.h(185,26): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Files\Algo\Lab3\Lab3a\Header.h(200,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Files\Algo\Lab3\Lab3a\Header.h(333,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Files\Algo\Lab3\Lab3a\Header.h(358,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Files\Algo\Lab3\Lab3a\Header.h(359,1): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+C:\Files\Algo\Lab3\Lab3a\Header.h(384,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Files\Algo\Lab3\Lab3a\Header.h(385,1): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+C:\Files\Algo\Lab3\Lab3a\Reals.cpp(44,69): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Files\Algo\Lab3\Lab3a\Reals.cpp(108,65): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+C:\Files\Algo\Lab3\Lab3a\BinTree_reals.cpp(542): warning C4715: RBTree::FindPreLeft: значение возвращается не при всех путях выполнения
+C:\Files\Algo\Lab3\Lab3a\BinTree_reals.cpp(573): warning C4715: RBTree::SearchRoot: значение возвращается не при всех путях выполнения
+C:\Files\Algo\Lab3\Lab3a\BinTree_reals.cpp(824): warning C4715: RBTree::Find: значение возвращается не при всех путях выполнения
+C:\Files\Algo\Lab3\Lab3a\BinTree_reals.cpp(851): warning C4715: RBTree::Find: значение возвращается не при всех путях выполнения
+  RBTree.vcxproj -> C:\Files\Algo\Lab3\Lab3a\x64\Debug\RBTree.exe

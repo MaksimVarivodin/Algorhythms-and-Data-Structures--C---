@@ -1,0 +1,131 @@
+﻿  Main.cpp
+C:\Download\Algo\Lab1b\Main.cpp(5,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Download\Algo\Lab1b\Header.h(31,13): warning C4244: =: преобразование "double" в "t1", возможна потеря данных
+          with
+          [
+              t1=int
+          ]
+C:\Download\Algo\Lab1b\List_reals.h(281): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Enter_check<int,int>(t1 &,const t2 &,const t2 &)"
+          with
+          [
+              t1=int,
+              t2=int
+          ]
+C:\Download\Algo\Lab1b\List_reals.h(273): message : во время компиляции функции-члена класс шаблон "bool List<int>::Swap(void)"
+C:\Download\Algo\Lab1b\Main.cpp(95): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool List<int>::Swap(void)"
+C:\Download\Algo\Lab1b\Main.cpp(52): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<int>"
+C:\Download\Algo\Lab1b\Header.h(36,14): warning C4244: =: преобразование "__int64" в "t1", возможна потеря данных
+          with
+          [
+              t1=int
+          ]
+C:\Download\Algo\Lab1b\Header.h(220,26): warning C4838: Преобразование из "unsigned __int64" в "int" требует сужающего преобразования.
+C:\Download\Algo\Lab1b\Header.h(216): message : во время компиляции функции-члена класс шаблон "std::ostream &Elem<T>::operator <<(std::ostream &)"
+          with
+          [
+              T=int
+          ]
+C:\Download\Algo\Lab1b\List_reals.h(666): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::ostream &Elem<T>::operator <<(std::ostream &)"
+          with
+          [
+              T=int
+          ]
+C:\Download\Algo\Lab1b\List_reals.h(491): message : во время компиляции функции-члена класс шаблон "Elem<T> *List<T>::AddElement(Elem<T> *)"
+          with
+          [
+              T=int
+          ]
+C:\Download\Algo\Lab1b\List_class.h(123): message : выполняется компиляция ссылки на экземпляр шаблон функции "Elem<T> *List<T>::AddElement(Elem<T> *)"
+          with
+          [
+              T=int
+          ]
+C:\Download\Algo\Lab1b\Header.h(222,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Download\Algo\Lab1b\Header.h(221,25): warning C4838: Преобразование из "unsigned __int64" в "int" требует сужающего преобразования.
+C:\Download\Algo\Lab1b\Header.h(266,18): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Download\Algo\Lab1b\Header.h(248): message : во время компиляции функции-члена класс шаблон "std::istream &Elem<T>::operator >>(std::istream &)"
+          with
+          [
+              T=int
+          ]
+C:\Download\Algo\Lab1b\List_reals.h(396): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::istream &Elem<T>::operator >>(std::istream &)"
+          with
+          [
+              T=int
+          ]
+C:\Download\Algo\Lab1b\Header.h(271,19): warning C4244: аргумент: преобразование "__int64" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Download\Algo\Lab1b\List_reals.h(624,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Download\Algo\Lab1b\List_reals.h(592): message : во время компиляции функции-члена класс шаблон "void List<int>::Fff(Elem<T> *)"
+          with
+          [
+              T=int
+          ]
+C:\Download\Algo\Lab1b\List_reals.h(197): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<int>::Fff(Elem<T> *)"
+          with
+          [
+              T=int
+          ]
+C:\Download\Algo\Lab1b\List_reals.h(255): message : во время компиляции функции-члена класс шаблон "Elem<T> *List<T>::operator [](const int &)"
+          with
+          [
+              T=int
+          ]
+C:\Download\Algo\Lab1b\List_reals.h(286): message : выполняется компиляция ссылки на экземпляр шаблон функции "Elem<T> *List<T>::operator [](const int &)"
+          with
+          [
+              T=int
+          ]
+C:\Download\Algo\Lab1b\List_reals.h(629,17): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Download\Algo\Lab1b\List_reals.h(634,18): warning C4244: =: преобразование "__int64" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Download\Algo\Lab1b\Header.h(16,10): warning C4244: инициализация: преобразование "const t2" в "T", возможна потеря данных
+          with
+          [
+              t2=double
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Download\Algo\Lab1b\Header.h(289): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Enter_check<T,double>(t1 &,const t2 &,const t2 &)"
+          with
+          [
+              T=int,
+              t1=int,
+              t2=double
+          ]
+C:\Download\Algo\Lab1b\List_reals.h(200): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::istream &operator >><T>(std::istream &,Elem<T> *)"
+          with
+          [
+              T=int
+          ]
+C:\Download\Algo\Lab1b\List_reals.h(172): message : во время компиляции функции-члена класс шаблон "bool List<int>::InnerAdd(const int &,const int &,const int &)"
+C:\Download\Algo\Lab1b\List_reals.h(100): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool List<int>::InnerAdd(const int &,const int &,const int &)"
+C:\Download\Algo\Lab1b\Header.h(17,10): warning C4244: инициализация: преобразование "const t2" в "T", возможна потеря данных
+          with
+          [
+              t2=double
+          ]
+          and
+          [
+              T=int
+          ]
+  Reals.cpp
+C:\Download\Algo\Lab1b\Reals.cpp(42,69): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Lab1b.vcxproj -> C:\Download\Algo\Lab1b\x64\Debug\Lab1b.exe
